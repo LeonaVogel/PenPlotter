@@ -4,4 +4,4 @@ In der Programmierung ist zum einen die manuelle Steuerung mittels Joystick und 
 
 Genaueres zur Umsetzung des Projekts findet man in der Dokumentation.
 Mehr Informationen zu Entscheidungen und Alternativen gibt es im Beleg.
-Außerdem ist der Code des Raspberry Pi Picos hier hinterlegt.
+Außerdem ist der Code des Raspberry Pi Picos hier hinterlegt und die Datei, die auf der SD-Karte hinterlegt ist.
